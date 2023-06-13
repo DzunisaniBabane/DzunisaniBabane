@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on completing my Information technology degree
-- 🌱 I’m currently learning Api's, c#, java and python 
+- 🌱 I’m currently learning Api's, c#,c++, java and python 
 - 👯 I’m looking to collaborate on projects that will help improve my coding skills and github skills
 - 💬 Ask me about anything that is in the information above
 - 😄 Pronouns: ...
