@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Api's, c#,c++, java and python 
 - 👯 I’m looking to collaborate on projects that will help improve my coding skills and github skills
 - 💬 Ask me about anything that is in the information above
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: It took less code to send a man to space than to run a smarthphone.
 
 <!--
